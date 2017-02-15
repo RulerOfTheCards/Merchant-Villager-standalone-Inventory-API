@@ -6,7 +6,7 @@ Hey Guys The Owner here,
 
 This API adds a Villager like Inventory Type that can be Accessed and Displayed in any Method and Event, there's no need for a Custom or modified Villager anymore.
 This API got tested on Spigot 1.11.2 and should work on any 1.11 Version. Tests and modifications need to be done for Versions below that and will only happen on Request.
-If you like our work feel free to buy us a coffe 0.0 the only thing that can keep us awake: <br>
+If you like our work feel free to buy us a coffe the only thing that can still keep us awake 0.0: <br>
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JFHPNTUJMDD8G)
 
 
