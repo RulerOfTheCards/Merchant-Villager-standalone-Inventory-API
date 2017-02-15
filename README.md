@@ -13,10 +13,20 @@ If you like our work feel free to buy us a coffe the only thing that can still k
 
 
 ###Instructions:
-The added Inventory Type is called Merchant and can be created easily like this:
+
+To work with the API in your Plugin you have to import the Jar File into your Java Project and put it also inside your Plugin Folder on your Server.
+
+The added Inventory Type is called Merchant and can be created easily like this.:
 
 ```Java
 Merchant testMerchant = new Merchant();
+```
+
+
+You HAVE to set a title for the Merchant, otherwise the Player will be kicked if the Inventory is opened for him. Set a Title like this:
+
+```Java
+testMerchant.setTitle("Insert Title here");
 ```
 
 
